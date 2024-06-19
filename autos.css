@@ -31,23 +31,19 @@ body {
 }
 
 .car-1 {
-    background-image: url('kleidungprops-img/Produktbild1.png');
+    background-image: url('props-img/Produktbild1.png');
 }
 
 .car-2 {
-    background-image: url('kleidungprops-img/soon.png');
+    background-image: url('produkt-img/Produkt2.png');
 }
 
 .car-3 {
-    background-image: url('kleidungprops-img/Produktbild2.png');
+    background-image: url('produkt-img/Produkt1.png');
 }
 
 .car-4 {
-    background-image: url('kleidungprops-img/soon.png');
-}
-
-.car-5 {
-    background-image: url('kleidungprops-img/guccia.png');
+    background-image: url('produkt-img/Produkt4.png');
 }
 
 .card h2 {
